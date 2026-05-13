@@ -53,21 +53,6 @@ A complete, enterprise-ready attendance management system that replaces paper si
 - MySQL 5.7+ / MariaDB
 - Composer (for dependencies)
 
-### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/michealphiri13/qr-attendance-system.git
-
----
-
-## ✅ How to Add README.md to GitHub
-
-### Step 1: Create the file
-
-1. Open `D:\xampp\htdocs\qr_attendance`
-2. Create a new file called `README.md`
-3. Copy and paste the entire content above
-4. Save the file
 
 ---
 
